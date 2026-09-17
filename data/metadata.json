@@ -1,0 +1,12 @@
+{
+  "dataset": "RLHF-Preference-Benchmark-200",
+  "sample_count": 200,
+  "domains": [
+    "technical",
+    "systems",
+    "safety",
+    "reasoning",
+    "alignment"
+  ],
+  "intended_use": "Empirical tracking of length exploitation and reward overoptimization"
+}
